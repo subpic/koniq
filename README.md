@@ -7,9 +7,9 @@ This is part of the code for the paper ["KonIQ-10k: An ecologically valid databa
 
 Python 2.7 notebooks:
 
-**`train_koncept512.ipynb`**:
+**`train_koncept512.ipynb`, `train_koncept224.ipynb`**:
 
-- Training and testing code for the KonCept512 model (on KonIQ-10k).
+- Training and testing code for the KonCept512 and KonCept224 model (on KonIQ-10k).
 - Ready-trained model weights for [KonCept512](https://osf.io/uznf8/download) and [KonCept224](https://osf.io/cxtyp/download).
 
 **`train_deeprn.ipynb`**
