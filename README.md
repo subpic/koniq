@@ -1,7 +1,7 @@
 # KonIQ-10k models 
 Deep Learning Models for the KonIQ-10k Image Quality Assessment Database
 
-This is part of the code for the paper ["KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment"](). The included notebooks rely on the [kutils library](https://github.com/subpic/kutils). Project data is available for download from [osf.io](https://osf.io/hcsdy/).
+This is part of the code for the paper ["KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment"](https://arxiv.org/abs/1910.06180). The included notebooks rely on the [kutils library](https://github.com/subpic/kutils). Project data is available for download from [osf.io](https://osf.io/hcsdy/).
 
 ## Overview
 
