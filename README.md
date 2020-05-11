@@ -1,5 +1,4 @@
-# KonIQ-10k models 
-Deep Learning Models for the KonIQ-10k Image Quality Assessment Database
+# KonCept: NR-IQA model(s) trained on the KonIQ-10k dataset
 
 This is part of the code for the paper ["KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment"](https://arxiv.org/abs/1910.06180). The included Python 2.7 notebooks rely on the [kutils library](https://github.com/subpic/kutils). The Google colab requires the [ku library](https://github.com/subpic/ku). Project data is available for download from [osf.io](https://osf.io/hcsdy/). 
 
@@ -17,7 +16,7 @@ Please cite the following paper if you use the code:
 
 ## Overview
 
-Colab notebook, Python 3 compatible:
+Google colab notebook, Python 3 compatible:
 
 **[koncept512_train_test_py3.ipynb](https://github.com/subpic/koniq/blob/master/koncept512_train_test_py3.ipynb)** *(updated May 2020)*
 - Download KonIQ-10k dataset, train the KonCept512 model and test it
