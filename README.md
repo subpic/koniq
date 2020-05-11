@@ -1,4 +1,4 @@
-## NR-IQA model(s) trained on the KonIQ-10k dataset
+## NR-IQA models trained on the KonIQ-10k dataset
 
 This is part of the code for the paper ["KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment"](https://arxiv.org/abs/1910.06180). The included Python 2.7 notebooks rely on the [kutils library](https://github.com/subpic/kutils). The Google colab requires the [ku library](https://github.com/subpic/ku). Project data is available for download from [osf.io](https://osf.io/hcsdy/). 
 
