@@ -16,6 +16,12 @@ This is part of the code for the paper ["KonIQ-10k: An ecologically valid databa
 
 ## Overview
 
+Colab notebook, Python 3 compatible:
+
+**`koncept512_train_test_py3.ipynb`** *(updated May 2020)*
+- Download KonIQ-10k dataset, train the KonCept512 model and test it
+- Load a pre-trained KonCept512 model, and use it to predict the quality of an image
+
 Python 2.7 notebooks:
 
 **`train_koncept512.ipynb`, `train_koncept224.ipynb`**:
