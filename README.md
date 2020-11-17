@@ -4,14 +4,13 @@ This is part of the code for the paper ["KonIQ-10k: An ecologically valid databa
 
 Please cite the following paper if you use the code:
 ```
-@misc{koniq10k,
-    title={KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment},
-    author={Hosu, Vlad and Lin, Hanhe and Sziranyi, Tamas and Saupe, Dietmar},
-    year={2019},
-    eprint={1910.06180},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
+@article{koniq10k,
+author={V. {Hosu} and H. {Lin} and T. {Sziranyi} and D. {Saupe}},
+journal={IEEE Transactions on Image Processing},
+title={KonIQ-10k: An Ecologically Valid Database for Deep Learning of Blind Image Quality Assessment},
+year={2020},
+volume={29},
+pages={4041-4056}}
 ```
 
 ## Overview
