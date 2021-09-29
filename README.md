@@ -2,7 +2,12 @@
 
 This is part of the code for the paper ["KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment"](https://arxiv.org/abs/1910.06180). The included Python 2.7 notebooks rely on the [kutils library](https://github.com/subpic/kutils). The Google colab requires the [ku library](https://github.com/subpic/ku). Project data is available for download from [osf.io](https://osf.io/hcsdy/). 
 
-Please cite the following paper if you use the code:
+To quickly  try out the `Koncept512` model:
+```
+pip install koncept
+```
+
+Please cite the following paper if you use the code or package:
 ```
 @article{koniq10k,
 author={V. {Hosu} and H. {Lin} and T. {Sziranyi} and D. {Saupe}},
