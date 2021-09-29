@@ -17,7 +17,7 @@ pages={4041-4056}}
 
 Google colab notebook, Python 3 compatible:
 
-**[koncept512_train_test_py3.ipynb](https://github.com/subpic/koniq/blob/master/koncept512_train_test_py3.ipynb)** *(updated May 2020)*
+**[koncept512_train_test_py3_with_kuti.ipynb](https://github.com/subpic/koniq/blob/master/koncept512_train_test_py3_with_kuti.ipynb)** *(updated Sept 2021)*
 - Download KonIQ-10k dataset, train the KonCept512 model and test it
 - Load a pre-trained KonCept512 model, and use it to predict the quality of an image
 
